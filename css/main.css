@@ -513,7 +513,7 @@
   text-align: left;
 }
 
-.jspsych-display-element{background-color:#fff}
+.jspsych-display-element{background-color:#fff}.taxonomy-survey-container{margin-top:5%;height:auto;max-height:100vh;overflow-y:auto;padding:20px}
 body {
   display: flex;
   justify-content: center;
